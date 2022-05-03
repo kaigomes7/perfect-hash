@@ -1,10 +1,11 @@
-package driver;
+package program2;
 
 import java.util.Scanner;
-import hash341.CityTable;
-import hash341.City;
 
-public class UseTable {
+import city.City;
+import citytable.CityTable;
+
+public class Program2 {
 
     public static void printCityAndUrl(City aCity) {
         if (aCity != null) {

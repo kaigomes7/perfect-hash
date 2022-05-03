@@ -7,8 +7,8 @@
 
 package driver;
 
-import hash341.City;
-import hash341.CityTable;
+import city.City;
+import citytable.CityTable;
 
 public class ProjTest {
 

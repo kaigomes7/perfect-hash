@@ -1,4 +1,4 @@
-package hash341;
+package citytable;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -9,6 +9,10 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
+
+import city.City;
+import hash341.Hash24;
+
 import java.io.Serializable;
 
 public class CityTable implements Serializable {

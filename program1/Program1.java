@@ -1,8 +1,8 @@
-package driver;
+package program1;
 
-import hash341.CityTable;
+import citytable.CityTable;
 
-public class MakeTable {
+public class Program1 {
 
     public static void main(String[] args) {
         CityTable US_Cities = new CityTable("US_Cities_LL.txt", 16000);
